@@ -1,0 +1,2 @@
+Coverly deployment 2026-09-08 15:12 Europe/Berlin
+Supabase diagnostics enabled.
