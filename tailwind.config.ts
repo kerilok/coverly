@@ -1,0 +1,1 @@
+import type{Config}from"tailwindcss";export default{darkMode:"class",content:["./app/**/*.{ts,tsx}","./components/**/*.{ts,tsx}"],theme:{extend:{colors:{ink:"#11110f",acid:"#d8ff63",plum:"#7d62ff"},fontFamily:{serif:["Georgia","serif"]},boxShadow:{soft:"0 18px 60px rgba(18,18,14,.12)"}}},plugins:[]}satisfies Config;

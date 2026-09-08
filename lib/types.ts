@@ -1,0 +1,1 @@
+export type Book={id:string;title:string;author:string;description:string;cover:string;palette:string;rating:number;ratings:number;comments:number;owner:string;createdAt:string};export type Comment={id:string;user:string;avatar:string;text:string;date:string;rating?:number};
