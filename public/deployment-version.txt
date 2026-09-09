@@ -1,2 +1,1 @@
-Coverly deployment 2026-09-08 15:12 Europe/Berlin
-Supabase diagnostics enabled.
+Coverly mobile and image support update 2026-09-09
